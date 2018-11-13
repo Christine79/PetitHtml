@@ -1,0 +1,37 @@
+
+  .mon-bouton
+  {
+    cursor: url("../../assets/images/curs.png"), pointer;
+    font-size: 15px;
+    color: #db235c;
+    background-color: #5F504B;
+    width:50px;
+    height:45px;
+
+  }
+
+ .mon-bouton:hover
+ {
+    background-color: #db235c;
+    cursor: url("../../assets/images/curs.png"), pointer;
+
+ }
+
+
+  .mon-bouton2
+  {
+     cursor: url("../../assets/images/curs.png"), pointer;
+     font-size: 15px;
+     color: #db235c;
+     background-color: #5F504B;
+     width:150px;
+     height:45px;
+  }
+
+  .mon-bouton2:hover
+  {
+     color: #5f504b;
+     align: middle;
+     background-color: #db235c;
+
+  }

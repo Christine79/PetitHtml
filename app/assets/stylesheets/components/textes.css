@@ -1,0 +1,37 @@
+
+ .mon-texte
+ {
+  float: right;
+  margin-right: 10px;
+
+  color: #5F504B;
+ }
+
+
+  .mon-texte2
+  {
+    font-size: 15;
+    color: #5F504B;
+  }
+
+  .mon-texte3
+  {
+   float: middle;
+   margin-right: 10px;
+   font-size: 25px;
+   color: #5F504B;
+  }
+
+  .mon-texte4
+  {
+   float: middle;
+   margin-right: 10px;
+   font-size: 50px;
+   color: #db235c;
+  }
+
+  .mon-texte5
+  {
+    font-size: 40px;
+    color: #5F504B;
+  }
